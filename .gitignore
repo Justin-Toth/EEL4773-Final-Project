@@ -1,1 +1,3 @@
-data/*
+data/generated/*
+data/t_train_project.csv
+data/x_train_project.csv
