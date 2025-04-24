@@ -1,0 +1,4 @@
+train: greek_dataset/images
+val: greek_dataset/images
+nc: 10
+names: ['alpha', 'beta', 'gamma', 'delta', 'epsilon', 'zeta', 'eta', 'theta', 'iota', 'kappa']
